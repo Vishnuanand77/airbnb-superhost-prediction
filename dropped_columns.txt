@@ -1,0 +1,41 @@
+tractQuartilePrice_variance
+booked_days
+zip_black_nothispanic_percent
+tract_total_pop
+tract_booking_share
+Zipcode
+tract_price_variance
+prev_available_days_aveListedPrice_tractQuartile
+zip_asian_nothispanic
+available_days_aveListedPrice_tractQuartile
+booked_days_period_city
+tract_black_perc
+prev_Nightly Rate_tractQuartile
+census_tract
+zip_total_population
+prev_Instantbook Enabled
+prev_booked_days_avePrice
+tract_housing_units
+revenue
+Bedrooms
+tract_white_perc
+tract_count_obs
+booked_days_period_tract
+occupancy_rate
+Minimum Stay
+tract_asian_perc
+Instantbook Enabled
+Bathrooms
+zip_hispanic_or_latino_anyrace
+revenue_period_city
+tract_revenue_share
+zip_white_nothispanic_percent
+Max Guests
+tract_unique_prices
+zip_white_nothispanic
+revenue_period_tract
+zip_black_nothispanic
+Nightly Rate_tractQuartile
+zip_hispanic_or_latino_anyrace_percent
+zip_asian_nothispanic_percent
+prev_revenue
